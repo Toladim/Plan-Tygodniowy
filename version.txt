@@ -1,1 +1,2 @@
-0.6.0
+0.6.2
+https://github.com/Toladim/Plan-Tygodniowy/releases/download/0.6.2/Plan.Tygodniowy.apk
